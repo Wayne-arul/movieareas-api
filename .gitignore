@@ -1,1 +1,4 @@
 node_modules
+
+# hding sensitive info
+.env
